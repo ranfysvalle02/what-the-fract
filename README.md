@@ -73,7 +73,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import random
 
-# Function to recursively draw branches, incorporating the golden ratio
+# Function to recursively draw branches, similar to a fractal neural network
 def draw_branch(x, y, length, angle, depth, max_depth):
     if depth == max_depth:
         return
@@ -82,39 +82,38 @@ def draw_branch(x, y, length, angle, depth, max_depth):
     x_end = x + length * np.cos(angle)
     y_end = y + length * np.sin(angle)
     
-    # Choose a random color for visual appeal
+    # Choose a random color for added effect
     color = plt.cm.viridis(random.random())
     
     # Draw the branch
-    plt.plot([x, x_end], [y, y_end], 'o-', color=color, markersize=2, linewidth=0.8)
+    plt.plot([x, x_end], [y, y_end], 'o-', color=color, markersize=3, linewidth=1)
     
-    # Calculate new branches recursively using the golden ratio
-    new_length = length / 1.618  # Apply the golden ratio to reduce length
-    angle_variation = np.pi / 5  # Adjust angle variation for aesthetic effect
+    # Calculate new branches recursively
+    new_length = length * 0.7  # Reduce the length for the next depth
+    angle_variation = np.pi / 6  # Angle variation for branches
     
-    # Recursive calls to create self-similar branches
+    # Left branch
     draw_branch(x_end, y_end, new_length, angle - angle_variation, depth + 1, max_depth)
+    # Right branch
     draw_branch(x_end, y_end, new_length, angle + angle_variation, depth + 1, max_depth)
-    draw_branch(x_end, y_end, new_length, angle, depth + 1, max_depth)  # Central branch for complexity
+    # Additional branches to add complexity without adding complexity to the code
+    draw_branch(x_end, y_end, new_length, angle - angle_variation / 2, depth + 1, max_depth)
+    draw_branch(x_end, y_end, new_length, angle + angle_variation / 2, depth + 1, max_depth)
 
-# Main function to initiate the drawing
+# Main function to draw the neural-like fractal network
 def draw_neural_fractal(x, y, initial_length, max_depth):
-    plt.figure(figsize=(8, 8))
+    plt.figure(figsize=(6, 6))  # Adjust the figure size for better zoom
     draw_branch(x, y, initial_length, -np.pi / 2, 0, max_depth)
     
-    # Clean up the display
+    # Set display parameters to give it a clean look
     plt.axis('off')
     plt.gca().set_aspect('equal')
     plt.show()
 
-# Execute the drawing with specified parameters
-draw_neural_fractal(0, 0, 10, 7)
+# Draw the fractal neural network with starting point (0, 0), initial length of 1, and depth of 6
+draw_neural_fractal(0, 0, 1, 6)
+
 ```
-
-**How It Works:**
-
-- **Golden Ratio Application:** Each branch's length is reduced by dividing by 1.618, ensuring that the pattern remains balanced and proportionate.
-- **Self-Similarity:** The `draw_branch` function calls itself multiple times, creating smaller branches that mirror the structure of the whole network.
 
 ---
 
