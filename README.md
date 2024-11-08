@@ -42,7 +42,7 @@ These patterns demonstrate how simple rules can lead to intricate and beautiful 
 
 ![](https://neuroengineering.ucdavis.edu/sites/g/files/dgvnsk5466/files/styles/sf_hero_banner/public/images/hero_banner/imgonline-com-ua-resize-f4WgKsE5GeeuUp_0.jpg?h=e66a71a3&itok=GM7XYbB3)
 
-The human brain, with its approximately 86 billion neurons interconnected in intricate networks, is a marvel of natural engineering. 
+The human brain, with its approximately 86 billion neurons interconnected in intricate networks, is a marvel of natural engineering. Each neuron serves as a fundamental unit of this vast network, capable of transmitting electrical and chemical signals that facilitate everything from basic reflexes to advanced cognitive functions.
 
 ![Neural Networks Animation](https://miro.medium.com/v2/resize:fit:1400/1*gMJz6v4nQNXXxbDgYuynGg.gif)
 
