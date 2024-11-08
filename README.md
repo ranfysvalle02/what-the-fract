@@ -29,6 +29,8 @@ Fractals show us how simple processes can lead to intricate and beautiful outcom
 
 ## **The Golden Ratio: Nature’s Perfect Proportion**
 
+![](https://elementor.com/blog/wp-content/uploads/2020/09/800px-FibonacciSpiral.svg.png)
+
 The **golden ratio**, approximately 1.618, is a special number that appears in various aspects of nature and art. Represented by the Greek letter phi (Φ), it describes a proportion where the ratio of the whole to the larger part is the same as the ratio of the larger part to the smaller one.
 
 **Examples of the Golden Ratio:**
