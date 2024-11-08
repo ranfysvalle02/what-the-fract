@@ -108,15 +108,15 @@ def draw_branch(x, y, length, angle, depth, max_depth):
     
     # Calculate new branches recursively
     new_length = length * 0.7  # Reduce the length for the next depth
-    angle_variation = np.pi / 6  # Angle variation for branches
+    golden_angle = 2.39996323  # Golden angle in radians
     
     # Left branch
-    draw_branch(x_end, y_end, new_length, angle - angle_variation, depth + 1, max_depth)
+    draw_branch(x_end, y_end, new_length, angle - golden_angle, depth + 1, max_depth)
     # Right branch
-    draw_branch(x_end, y_end, new_length, angle + angle_variation, depth + 1, max_depth)
-    # Additional branches to add complexity without adding complexity to the code
-    draw_branch(x_end, y_end, new_length, angle - angle_variation / 2, depth + 1, max_depth)
-    draw_branch(x_end, y_end, new_length, angle + angle_variation / 2, depth + 1, max_depth)
+    draw_branch(x_end, y_end, new_length, angle + golden_angle, depth + 1, max_depth)
+    # more branches just for fun
+    draw_branch(x_end, y_end, new_length, angle - golden_angle / 2, depth + 1, max_depth)
+    draw_branch(x_end, y_end, new_length, angle + golden_angle / 2, depth + 1, max_depth)
 
 # Main function to draw the neural-like fractal network
 def draw_neural_fractal(x, y, initial_length, max_depth):
