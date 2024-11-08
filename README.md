@@ -72,6 +72,8 @@ Whether it’s the spiraling arms of a galaxy, the branching of trees, or the in
 
 ## Derivative Calculus: Unraveling the Mathematics Behind the Magic
 
+![](https://camo.githubusercontent.com/0aac651037d94a51cb09d3e4e83207440a287f0ae58a0a86c44ff6e04eb498e5/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313238302f312a3547566e3736776e75784d42397a7a69756c6e6438772e676966)
+
 When you dive into the worlds of fractals and neural networks, you might wonder what ties these seemingly different concepts together. The answer lies in **derivative calculus**, a branch of mathematics that plays a crucial role in both creating stunning fractal patterns and powering the intelligence of neural networks. Let’s break down how derivative calculus makes all this possible in a more relatable way.
 
 ### Derivative Calculus in Neural Networks
