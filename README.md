@@ -92,11 +92,11 @@ Without derivative calculus, neural networks wouldn’t be able to learn from th
 
 Fractals are those beautiful, infinitely complex patterns you see in nature, like the branching of trees or the swirling of galaxies. Creating and understanding these patterns also involves derivative calculus, but in a different way.
 
-Take the famous **Mandelbrot set** as an example. It’s created by repeatedly applying a simple mathematical formula:
+Take the famous **Mandelbrot set** as an example. It’s created by repeatedly applying a simple mathematical formula - below is the result:
 
-\[ z_{n+1} = z_n^2 + c \]
+![](https://i.ytimg.com/vi/b005iHf8Z3g/maxresdefault.jpg)
 
-Here, \( z \) is a complex number, and \( c \) is a constant that determines the shape of the fractal. Derivative calculus helps us explore the properties of these fractals:
+Derivative calculus helps us explore the properties of these fractals:
 
 1. **Stability and Chaos**: By taking the derivative of the function, mathematicians can determine which parts of the fractal are stable and which parts are chaotic. This helps in understanding why some areas are smooth while others are wildly intricate.
 
@@ -113,8 +113,6 @@ While fractals and neural networks operate in different realms—one in visual b
 By understanding how calculus influences both areas, we gain a deeper appreciation for the mathematical foundations that drive the complexity and elegance of both natural and artificial systems. Whether it’s teaching an AI to recognize images or generating stunning fractal art, derivative calculus is quietly working behind the scenes, making the magic happen.
 
 ---
-
-This revised section aims to explain the role of derivative calculus in a more conversational and relatable manner, avoiding overly technical jargon and robotic phrasing. It connects the mathematical concepts to everyday ideas, making the content more engaging and easier to understand for your readers.
 
 ## Infinite Scaling: Fractals, Compute, and the Boundless Horizon of AI
 
