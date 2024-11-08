@@ -12,6 +12,8 @@
 
 ## **Fractals and Self-Similarity: Patterns That Repeat**
 
+![](https://i0.wp.com/thesublimeblog.org/wp-content/uploads/2020/02/Fractal-Rivers.jpg?resize=627%2C417&ssl=1)
+
 Think about the spiral arms of the Milky Way or the intricate structure of a hurricane. These patterns aren't random—they repeat themselves no matter how closely you look. This property is called **self-similarity**, and it's a fundamental aspect of **fractals**. Fractals are patterns that look similar at any scale, creating complexity from simple rules.
 
 **Real-World Fractals:**
