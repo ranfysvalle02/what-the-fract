@@ -6,7 +6,7 @@
 
 # The Fractal Symphony: Unveiling Nature's Hidden Patterns
 
-*Have you ever noticed the spiral arms of a galaxy or the swirling eye of a hurricane and wondered if there's a deeper connection behind these patterns? These seemingly simple designs are actually governed by mathematical principles that repeat themselves at every scale.
+Have you ever noticed the spiral arms of a galaxy or the swirling eye of a hurricane and wondered if there's a deeper connection behind these patterns? These seemingly simple designs are actually governed by mathematical principles that repeat themselves at every scale.
 
 ---
 
