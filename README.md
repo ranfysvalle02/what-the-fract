@@ -1,6 +1,6 @@
 # what-the-fract
 
-![](fractal.png)
+![](fractal1.png)
 
 # Fractals, Neural Networks, and the Mathematical Symphony of Nature
 
