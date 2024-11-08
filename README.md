@@ -66,19 +66,7 @@ The fractal-like structure of these neural networks ensures efficient communicat
 
 In the world of technology, **artificial neural networks (ANNs)** are inspired by the brain's structure to process information and learn from data. By incorporating fractal patterns into these networks, we can enhance their efficiency and performance.
 
-**Fractal Neural Networks:**
-
-- **Self-Similarity:** Just like neurons in the brain, layers within ANNs can mirror each other, allowing for deeper and more nuanced learning.
-- **Efficient Scaling:** Fractal architectures enable networks to grow without losing their structural integrity, similar to how trees expand their branches.
-- **Enhanced Learning:** Mimicking natural patterns leads to more robust and adaptable AI models, capable of handling complex tasks more effectively.
-
-Integrating principles like the golden ratio into neural network design creates a balanced and efficient system, pushing the boundaries of what artificial intelligence can achieve.
-
----
-
-## **Bringing It All Together: A Fractal Neural Network in Code**
-
-To see these concepts in action, let's explore a Python script that generates a fractal neural network. This script uses self-similarity and the golden ratio to create a visual representation of a neural network.
+## **FULL CODE**
 
 ```python
 import matplotlib.pyplot as plt
@@ -127,33 +115,18 @@ draw_neural_fractal(0, 0, 10, 7)
 
 - **Golden Ratio Application:** Each branch's length is reduced by dividing by 1.618, ensuring that the pattern remains balanced and proportionate.
 - **Self-Similarity:** The `draw_branch` function calls itself multiple times, creating smaller branches that mirror the structure of the whole network.
-- **Visual Outcome:** The resulting image resembles both the spiral arms of galaxies and the intricate pathways of neural networks, showcasing the connection between biology and technology.
 
 ---
 
 ## **Connecting the Dots: Why These Patterns Matter**
 
-The fractal neural network you create with this code isn't just a cool visual—it's a representation of how mathematics, nature, and technology are interconnected.
-
-**Key Takeaways:**
-
-- **Neural Efficiency:** The branching patterns in both our brains and AI models optimize communication pathways, making information processing more efficient.
-- **Balanced Growth:** Using the golden ratio in network design ensures that each part of the system grows in harmony, maintaining overall balance and functionality.
-- **Inspired Innovation:** By looking to natural patterns, we can design better technologies that are both effective and efficient.
-
-These connections highlight the importance of understanding natural patterns to drive advancements in technology and improve our understanding of the human body.
+The neural network you create with this code isn't just a cool visual—it's a representation of how mathematics, nature, and technology are interconnected.
 
 ---
 
 ## **Conclusion: Discovering Patterns in Our World**
 
 Our exploration of fractals, the golden ratio, and neural networks reveals a world filled with repeating patterns and harmonious proportions. From the neurons in our brains and guts to the artificial intelligences we build, the principles of **self-similarity**, **fractals**, and the **golden ratio** are everywhere.
-
-**Final Thoughts:**
-
-- **Interconnectedness:** Recognizing these patterns helps us appreciate the seamless connections between different aspects of life and technology.
-- **Nature-Inspired Innovation:** Emulating the elegant designs found in nature can lead to more advanced and efficient technological systems.
-- **Holistic Perspective:** Understanding the fractal nature of existence encourages us to think broadly, bridging gaps between science, technology, and biology.
 
 As we continue to uncover these patterns, we open doors to new possibilities, enhancing both our technological capabilities and our understanding of the natural world.
 
