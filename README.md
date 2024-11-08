@@ -40,6 +40,8 @@ These patterns demonstrate how simple rules can lead to intricate and beautiful 
 
 ## Neural Networks: Nature’s Fractal Architects
 
+![](https://media.licdn.com/dms/image/D4D12AQH5bLQOsAwJFA/article-cover_image-shrink_720_1280/0/1701632159382?e=2147483647&v=beta&t=RXADqjOjoOdbKmxvlmXkqTVQPbA8pmEXKQJmJfdEJ_Y)
+
 The human brain, with its approximately 86 billion neurons interconnected in intricate networks, is a marvel of natural engineering. 
 
 ![Neural Networks Animation](https://miro.medium.com/v2/resize:fit:1400/1*gMJz6v4nQNXXxbDgYuynGg.gif)
