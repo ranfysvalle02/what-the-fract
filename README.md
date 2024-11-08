@@ -10,7 +10,7 @@ Have you ever gazed at the spiral arms of a galaxy or watched the swirling eye o
 
 ## Crafting a Neural-Like Fractal
 
-At the heart of our journey lies a simple yet profound Python script. Using recursion and the powerful `matplotlib` library, this script generates intricate, branching fractal patterns that mirror the complexity of neural networks in the human brain. Here's a glimpse into its magic:
+Using recursion and the powerful `matplotlib` library, this script generates intricate, branching fractal patterns that mirror the complexity of neural networks in the human brain. Here's a glimpse into its magic:
 
 - **Recursive Branch Drawing**: The `draw_branch` function creates branches that split and diverge, each iteration reducing in length and altering in angle. This recursive process builds a complex, tree-like structure that grows organically.
 - **Color Variation**: By selecting random colors from the `viridis` colormap, each branch shines with a unique hue, adding depth and visual intrigue to the fractal.
