@@ -13,6 +13,7 @@ Have you ever gazed at the spiral arms of a galaxy or watched the swirling eye o
 Using recursion and the powerful `matplotlib` library, this script generates intricate, branching fractal patterns that mirror the complexity of neural networks in the human brain. Here's a glimpse into its magic:
 
 - **Recursive Branch Drawing**: The `draw_branch` function creates branches that split and diverge, each iteration reducing in length and altering in angle. This recursive process builds a complex, tree-like structure that grows organically.
+- **Golden Ratio Branching**: The `draw_branch` function now uses the golden ratio to determine the angles at which branches diverge. This creates a more natural-looking fractal that mirrors patterns found in nature.
 - **Color Variation**: By selecting random colors from the `viridis` colormap, each branch shines with a unique hue, adding depth and visual intrigue to the fractal.
 - **Fractal Complexity**: Despite its simplicity, the script introduces additional branches at each step, resulting in a rich, self-similar pattern that captivates the eye.
 - **Visualization**: The `draw_neural_fractal` function orchestrates the plotting, initiating the recursion and displaying the final mesmerizing fractal image.
