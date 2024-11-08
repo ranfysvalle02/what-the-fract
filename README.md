@@ -17,8 +17,6 @@ Using recursion and the powerful `matplotlib` library, this script generates int
 - **Fractal Complexity**: Despite its simplicity, the script introduces additional branches at each step, resulting in a rich, self-similar pattern that captivates the eye.
 - **Visualization**: The `draw_neural_fractal` function orchestrates the plotting, initiating the recursion and displaying the final mesmerizing fractal image.
 
-When executed, this script doesn't just produce a static image—it creates a living, breathing fractal that echoes the intricate architecture of our own neural networks.
-
 ## Self-Similarity: The Essence of Fractals
 
 Fractals are more than just beautiful patterns; they embody the concept of **self-similarity**, where each part of the fractal mirrors the whole. This recursive repetition creates an infinite tapestry of complexity from simple, underlying rules. 
