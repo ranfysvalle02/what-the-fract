@@ -4,6 +4,16 @@
 
 # Fractals, Neural Networks, and the Mathematical Symphony of Nature
 
+```
+AI models such as ChatGPT arrange concepts using geometric patterns, forming complex structures known as semantic crystals and concept clouds. These patterns illustrate how relationships between words, like “man” and “woman” or “king” and “queen,” create precise geometric shapes such as parallelograms. This geometric organization enables AI to process and relate information efficiently, functioning like a structured map of knowledge.
+```
+
+quote from [ChatGPT’s Hidden Brain: The AI Breakthrough Shocking Scientists [11/2024]](https://www.geeky-gadgets.com/chatgpt-brain-like-structures/?utm_source=flipboard&utm_content=topic%2Fcomputerscience)
+[
+PAPER: The Geometry of Concepts: Sparse Autoencoder Feature Structure](https://arxiv.org/abs/2410.19750)
+
+![](https://arxiv.org/html/2410.19750v1/extracted/5917553/figs/lobe-annotations2and3.jpg)
+
 ---
 
 Have you ever gazed at the spiral arms of a galaxy or watched the swirling eye of a hurricane and felt a sense of wonder? These awe-inspiring patterns aren't just random occurrences; they're manifestations of deep mathematical principles that echo throughout nature, art, and even technology. In this exploration, we'll delve into the fascinating interplay between fractals, neural networks, and the golden ratio, uncovering how these concepts weave a mathematical symphony that underpins the complexity of our universe.
