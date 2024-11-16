@@ -1,6 +1,6 @@
 # what-the-fract
 
-![](fractal1.png)
+![](https://arxiv.org/html/2410.19750v1/extracted/5917553/figs/lobe-annotations2and3.jpg)
 
 # Fractals, Neural Networks, and the Mathematical Symphony of Nature
 
@@ -11,13 +11,13 @@ quote from [ChatGPT’s Hidden Brain: The AI Breakthrough Shocking Scientists [1
 [
 PAPER: The Geometry of Concepts: Sparse Autoencoder Feature Structure](https://arxiv.org/abs/2410.19750)
 
-![](https://arxiv.org/html/2410.19750v1/extracted/5917553/figs/lobe-annotations2and3.jpg)
-
 ---
 
 Have you ever gazed at the spiral arms of a galaxy or watched the swirling eye of a hurricane and felt a sense of wonder? These awe-inspiring patterns aren't just random occurrences; they're manifestations of deep mathematical principles that echo throughout nature, art, and even technology. In this exploration, we'll delve into the fascinating interplay between fractals, neural networks, and the golden ratio, uncovering how these concepts weave a mathematical symphony that underpins the complexity of our universe.
 
 ## Crafting a Neural-Like Fractal
+
+![](fractal1.png)
 
 Using recursion and the powerful `matplotlib` library, this script generates intricate, branching fractal patterns that mirror the complexity of neural networks in the human brain. Here's a glimpse into its magic:
 
