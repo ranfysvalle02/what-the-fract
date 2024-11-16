@@ -8,8 +8,10 @@ _'AI models such as ChatGPT arrange concepts using geometric patterns, forming c
 
 
 quote from [ChatGPT’s Hidden Brain: The AI Breakthrough Shocking Scientists [11/2024]](https://www.geeky-gadgets.com/chatgpt-brain-like-structures/?utm_source=flipboard&utm_content=topic%2Fcomputerscience)
-[
-PAPER: The Geometry of Concepts: Sparse Autoencoder Feature Structure](https://arxiv.org/abs/2410.19750)
+
+"Our new AI paper reveals surprising geometric structure in the LLM-learned concepts: 1) They form brain-like "lobes", 2) they form "semantic crystals"  much more precise than it first seems, and 3) the concept cloud is more fractal than round" - Max Tegmark
+
+[PAPER: The Geometry of Concepts: Sparse Autoencoder Feature Structure](https://arxiv.org/abs/2410.19750)
 
 ---
 
