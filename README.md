@@ -4,7 +4,7 @@
 
 # Fractals, Neural Networks, and the Mathematical Symphony of Nature
 
-AI models such as ChatGPT arrange concepts using geometric patterns, forming complex structures known as semantic crystals and concept clouds. These patterns illustrate how relationships between words, like “man” and “woman” or “king” and “queen,” create precise geometric shapes such as parallelograms. This geometric organization enables AI to process and relate information efficiently, functioning like a structured map of knowledge.
+_'AI models such as ChatGPT arrange concepts using geometric patterns, forming complex structures known as semantic crystals and concept clouds. These patterns illustrate how relationships between words, like “man” and “woman” or “king” and “queen,” create precise geometric shapes such as parallelograms. This geometric organization enables AI to process and relate information efficiently, functioning like a structured map of knowledge.'_
 
 
 quote from [ChatGPT’s Hidden Brain: The AI Breakthrough Shocking Scientists [11/2024]](https://www.geeky-gadgets.com/chatgpt-brain-like-structures/?utm_source=flipboard&utm_content=topic%2Fcomputerscience)
